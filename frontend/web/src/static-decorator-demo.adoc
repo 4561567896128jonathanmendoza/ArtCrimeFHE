@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\static-decorator-demo.adoc
+// Generated at: 2025-10-14T09:58:21.581Z
